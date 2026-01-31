@@ -2,7 +2,7 @@
     "gopstop": {
         "sounds": [
             {
-                "name": "kubejs:gopstop"
+                "name": "minecraft:gopstop"
             }
         ]
     }
