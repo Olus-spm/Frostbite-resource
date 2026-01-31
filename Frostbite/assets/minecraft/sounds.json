@@ -1,9 +1,13 @@
 {
-    "gopstop": {
+    "block.slime.step": {
         "sounds": [
             {
-                "name": "gopstop"
+                "name": "gopstop",
+                "volume": 2,
+                "pitch": 1
             }
-        ]
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.footsteps"
     }
 }
