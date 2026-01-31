@@ -1,8 +1,8 @@
 {
-    "gop-stop": {
+    "gopstop": {
         "sounds": [
             {
-                "name": "kubejs:gop-stop"
+                "name": "kubejs:gopstop"
             }
         ]
     }
