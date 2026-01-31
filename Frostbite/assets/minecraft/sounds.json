@@ -1,7 +1,9 @@
 {
     "gopstop": {
         "sounds": [
-            "gopstop"
+            {
+                "name": "gopstop"
+            }
         ]
     }
 }
