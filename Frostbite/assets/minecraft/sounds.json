@@ -1,9 +1,7 @@
 {
     "gopstop": {
         "sounds": [
-            {
-                "name": "minecraft:gopstop"
-            }
+            "gopstop"
         ]
     }
 }
