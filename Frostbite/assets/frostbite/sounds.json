@@ -36,7 +36,44 @@
     },
     "electric": {
         "sounds": [
-            { "name": "frostbite:electric" }
+            {
+                "name": "frostbite:electric"
+            }
+        ]
+    },
+    "nachalotehno": {
+        "sounds": [
+            {
+                "name": "frostbite:nachalotehno"
+            }
+        ]
+    },
+    "naprag": {
+        "sounds": [
+            {
+                "name": "frostbite:naprag"
+            }
+        ]
+    },
+    "stay": {
+        "sounds": [
+            {
+                "name": "frostbite:stay"
+            }
+        ]
+    },
+    "zapas1": {
+        "sounds": [
+            {
+                "name": "frostbite:zapas1"
+            }
+        ]
+    },
+    "the_end": {
+        "sounds": [
+            {
+                "name": "frostbite:the_end"
+            }
         ]
     }
 }
