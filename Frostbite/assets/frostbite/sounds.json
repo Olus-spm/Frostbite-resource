@@ -7,37 +7,37 @@
     },
     "final.sound0": {
         "sounds": [
-            { "name": "final.sound0" }
+            { "name": "final/sound0" }
         ],
         "subtitle": "subtitles.frostbite.final.sound0"
     },
     "final.sound1": {
         "sounds": [
-            { "name": "final.sound1" }
+            { "name": "final/sound1" }
         ],
         "subtitle": "subtitles.frostbite.final.sound1"
     },
     "final.sound2": {
         "sounds": [
-            { "name": "final.sound2" }
+            { "name": "final/sound2" }
         ],
         "subtitle": "subtitles.frostbite.final.sound2"
     },
     "final.sound3": {
         "sounds": [
-            { "name": "final.sound3" }
+            { "name": "final/sound3" }
         ],
         "subtitle": "subtitles.frostbite.final.sound3"
     },
     "final.sound4": {
         "sounds": [
-            { "name": "final.sound4" }
+            { "name": "final/sound4" }
         ],
         "subtitle": "subtitles.frostbite.final.sound4"
     },
     "final.sound5": {
         "sounds": [
-            { "name": "final.sound5" }
+            { "name": "final/sound5" }
         ],
         "subtitle": "subtitles.frostbite.final.sound5"
     }
