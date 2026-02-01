@@ -1,37 +1,37 @@
 {
     "gopstop": {
         "sounds": [
-            { "name": "gopstop" }
+            { "name": "frostbite:gopstop" }
         ]
     },
     "final.sound0": {
         "sounds": [
-            { "name": "sound0" }
+            { "name": "frostbite:sound0" }
         ]
     },
     "final.sound1": {
         "sounds": [
-            { "name": "sound1" }
+            { "name": "frostbite:sound1" }
         ]
     },
     "final.sound2": {
         "sounds": [
-            { "name": "sound2" }
+            { "name": "frostbite:sound2" }
         ]
     },
     "final.sound3": {
         "sounds": [
-            { "name": "sound3" }
+            { "name": "frostbite:sound3" }
         ]
     },
     "final.sound4": {
         "sounds": [
-            { "name": "sound4" }
+            { "name": "frostbite:sound4" }
         ]
     },
     "final.sound5": {
         "sounds": [
-            { "name": "sound5" }
+            { "name": "frostbite:sound5" }
         ]
     }
 }
