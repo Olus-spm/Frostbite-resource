@@ -36,7 +36,7 @@
     },
     "electric": {
         "sounds": [
-            { "name": "electric" }
+            { "name": "frostbite:electric" }
         ]
     }
 }
