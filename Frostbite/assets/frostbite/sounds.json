@@ -1,47 +1,43 @@
 {
     "gopstop": {
         "sounds": [
-            {
-                "name": "test/gopstop",
-                "volume": 2,
-                "pitch": 1
-            }
+            { "name": "test/gopstop" }
         ],
         "subtitle": "subtitles.frostbite.gopstop"
     },
     "final.sound0": {
         "sounds": [
-            { "name": "final.sound0", "volume": 2, "pitch": 1}
+            { "name": "final.sound0" }
         ],
         "subtitle": "subtitles.frostbite.final.sound0"
     },
     "final.sound1": {
         "sounds": [
-            { "name": "final.sound1", "volume": 2, "pitch": 1}
+            { "name": "final.sound1" }
         ],
         "subtitle": "subtitles.frostbite.final.sound1"
     },
     "final.sound2": {
         "sounds": [
-            { "name": "final.sound2", "volume": 2, "pitch": 1}
+            { "name": "final.sound2" }
         ],
         "subtitle": "subtitles.frostbite.final.sound2"
     },
     "final.sound3": {
         "sounds": [
-            { "name": "final.sound3", "volume": 2, "pitch": 1}
+            { "name": "final.sound3" }
         ],
         "subtitle": "subtitles.frostbite.final.sound3"
     },
     "final.sound4": {
         "sounds": [
-            { "name": "final.sound4", "volume": 2, "pitch": 1}
+            { "name": "final.sound4" }
         ],
         "subtitle": "subtitles.frostbite.final.sound4"
     },
     "final.sound5": {
         "sounds": [
-            { "name": "final.sound5", "volume": 2, "pitch": 1}
+            { "name": "final.sound5" }
         ],
         "subtitle": "subtitles.frostbite.final.sound5"
     }
