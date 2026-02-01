@@ -4,32 +4,32 @@
             { "name": "frostbite:gopstop" }
         ]
     },
-    "final.sound0": {
+    "sound0": {
         "sounds": [
             { "name": "frostbite:sound0" }
         ]
     },
-    "final.sound1": {
+    "sound1": {
         "sounds": [
             { "name": "frostbite:sound1" }
         ]
     },
-    "final.sound2": {
+    "sound2": {
         "sounds": [
             { "name": "frostbite:sound2" }
         ]
     },
-    "final.sound3": {
+    "sound3": {
         "sounds": [
             { "name": "frostbite:sound3" }
         ]
     },
-    "final.sound4": {
+    "sound4": {
         "sounds": [
             { "name": "frostbite:sound4" }
         ]
     },
-    "final.sound5": {
+    "sound5": {
         "sounds": [
             { "name": "frostbite:sound5" }
         ]
